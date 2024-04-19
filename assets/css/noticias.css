@@ -39,7 +39,6 @@ nav {
     transition: 0.5s ease;
 }
 
-
 .botao-nav:hover{
     background-color: #F47D7D;
 }
@@ -106,9 +105,6 @@ h4 {
     opacity: 0.3;
     transition: opacity 0.3s ease;
 }
-
-
-
 
 footer {
     background-color: #b86060;
